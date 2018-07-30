@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1, "bookname": "Book A", "author": "typicode", "adposter": "Superman", "addate": "2018/01/01" },
+    { "id": 2, "bookname": "Book B", "author": "typicode1", "adposter": "Batman", "addate": "2018/01/01" },
+    { "id": 3, "bookname": "Book C", "author": "typicode2", "adposter": "Aquaman", "addate": "2018/01/01" },
+    { "id": 4, "bookname": "Book D", "author": "typicode3", "adposter": "Wonder Woman", "addate": "2018/01/01" },
+    { "id": 5, "bookname": "Book E", "author": "typicode4", "adposter": "Green Lantern", "addate": "2018/01/01" }
+
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
